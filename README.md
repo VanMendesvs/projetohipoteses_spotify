@@ -67,13 +67,13 @@ O projeto seguiu as seguintes etapas principais:
 
 ### **Como Acessar o Projeto**
 
-* **Dashboard Power BI:** [Inclua o link para o seu dashboard publicado no Power BI Service, se houver]
-* **Apresentação:** [Inclua o link para sua apresentação no Google Slides]
-* **Vídeo da Apresentação:** [Inclua o link para o seu vídeo no YouTube ou outra plataforma]
+* **Dashboard Power BI:** [Incluso no repositorio]
+* **Apresentação:** [https://docs.google.com/presentation/d/1qtvKDhojUo7fP1rrm3FbjyHRUsFtdOzZ8F9M4-ApZy0/edit?usp=drive_link]
+* **Vídeo da Apresentação:** [https://www.loom.com/share/9881ed4619d541f094e24e88e6140014?sid=2aa4e0ca-b124-4ce9-b299-57aa330f588c]
 * **Código/Arquivos:**
-    * `[nome_do_arquivo_powerbi.pbix]` - Arquivo do Power BI Desktop.
-    * `[nome_do_arquivo_sql_bigquery.sql]` - Scripts SQL utilizados no BigQuery.
-    * `[outros_arquivos_relevantes]` - Dados brutos (se puder compartilhar), etc.
+    * `[Incluso no Repositorio]` - Arquivo do Power BI Desktop.
+    * `[https://console.cloud.google.com/bigquery?hl=pt-br&inv=1&invt=Ab3JMw&project=projeto2laboratoria&ws=!1m5!1m4!1m3!1sprojeto2laboratoria!2sbquxjob_579bbb01_197c8e78a0e!3sUS]` - Scripts SQL utilizados no BigQuery.
+    
 
 ### **Feito por**
 
